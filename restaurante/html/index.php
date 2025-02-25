@@ -1,28 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="paginainicial.css">
-    <title>Document</title>
+    <link rel="shortcut icon" href="https://i.imgur.com/o4hZ68k.png" type="image/x-icon"> <!-- Link direto para o ícone -->
+    <title>Restaurante XP dos Sabores</title>
 </head>
-<body>
-    
-</body>
-</html>
-
 <body class="body">
-    <!-- Topo -->
+
+    <!-- Seção Topo -->
     <header class="topo">
-        <div class="cabeçalho">
-            <h1>PIZZARIA ALVIVERDE <img class="TIME" src="imagens/PALMEIRAS.png" alt="Logo Palmeiras"></h1>
-        </div>
         <div class="banner-imagens">
-            <img src="imagens/360_F_712060996_bd3d7ANGdflVPRRkgQ1fmps9nABzVmIT.jpg" height="200" width="400" alt="imagem banner">
-            <img src="imagens/22.jpg" height="200" width="450" alt="imagem banner">
-            <img src="imagens/33.jpg" height="200" width="450" alt="imagem banner">
+            <img src="https://i.imgur.com/o4hZ68k.png" alt="imagem banner">
+        </div>
+        <div class="cabeçalho">
+            <h1>Restaurante XP dos Sabores</h1>
+        </div>
+
+        <!-- Links de Cadastro e Login no canto superior direito -->
+        <div class="login-cadastro">
+            <a href="cadastro.html" class="link link-cadastro">
+                <span class="icon"></span> Cadastrar-se
+            </a>
+            <a href="login.html" class="link link-cadastro">
+                <span class="icon"></span> Login
+            </a>
         </div>
     </header>
+
+    <hr>
 
     <hr>
