@@ -1,7 +1,8 @@
+
 /* Estilo para a página */
 .body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom, #f13d10, #fbff00); 
+    background: linear-gradient(to right,  rgb(184, 112, 5), #eb9c09); 
     padding: 0;
 }
 
@@ -55,8 +56,8 @@
 }
 
 .link-cadastro:hover {
-    background-color: #0044ff;
-    color: #ffffff;
+    background-color: #000000;
+    color: #afafaf;
 }
 
 .links {
@@ -70,7 +71,7 @@
     display: inline-block;
     padding: 20px 30px; /* Reduzimos um pouco o padding */
     margin: 10px;
-    background-color: rgb(53, 47, 42);
+    background-color: rgb(0, 0, 0);
     color: white;
     text-decoration: none;
     text-align: center;
@@ -80,7 +81,7 @@
 }
 
 .box:hover {
-    background-color: #444;
+    background-color: rgb(0, 0, 0);
 }
 
 .boas-vindas h1 {
